@@ -1,2 +1,1 @@
-# kafka-streaming-real-time
-Streaming Real-time Data Using Kafka
+# Streaming Real-time Data Using Kafka
